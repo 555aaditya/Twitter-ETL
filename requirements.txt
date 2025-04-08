@@ -1,0 +1,15 @@
+apache-airflow==2.10.5
+apache-airflow-providers-common-compat==1.6.0
+apache-airflow-providers-common-io==1.5.2
+apache-airflow-providers-common-sql==1.24.1
+apache-airflow-providers-fab==1.5.3
+apache-airflow-providers-ftp==3.12.3
+apache-airflow-providers-http==5.2.1
+apache-airflow-providers-imap==3.8.3
+apache-airflow-providers-smtp==2.0.2
+apache-airflow-providers-sqlite==4.0.1
+dotenv==0.9.9
+json5==0.9.14
+pandas==2.2.0
+s3fs==2025.3.2
+tweepy==4.15.0
