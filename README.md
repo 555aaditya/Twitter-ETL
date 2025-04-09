@@ -16,9 +16,10 @@ This project demonstrates an end-to-end ETL pipeline built with Apache Airflow o
 
 - **Automation:** Airflow handles task scheduling, retries, and monitoring.
 
-<img src="images/ETL_code.png" alt="Description" width="400" align='center'>
-
-*twitter_ETL.py*
+<div align='center'>
+    <img src="images/ETL_code.png" alt="Description" width="600" align="center">
+    <p align="center"><em>twitter_ETL.py</em></p>
+</div>
 
 
 ### Tools and Technologies
