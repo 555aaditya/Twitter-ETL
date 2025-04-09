@@ -1,6 +1,15 @@
-# Twitter Data Pipeline with Apache Airflow on AWS
+<div align='center'>
+    <h1 align='center'> Twitter Data Pipeline with Apache Airflow on AWS </h1>
+    <p align='center'> This project demonstrates an end-to-end ETL pipeline built with Apache Airflow on an AWS EC2 instance, used to extract tweets from Twitter via Tweepy, process them using Pandas, and store the results in Amazon S3. </p>
+    <div>
+        <img src="https://img.shields.io/badge/AWS-EC2-232F3E?logo=amazon-aws&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-S3-569A31?logo=amazon-aws&logoColor=white">
+        <img src="https://img.shields.io/badge/Apache-Airflow-017CEE?logo=apache-airflow&logoColor=white">
+        <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/Tweepy-Twitter%20API-1DA1F2?logo=twitter&logoColor=white">
+    </div>
+</div>
 
-This project demonstrates an end-to-end ETL pipeline built with Apache Airflow on an AWS EC2 instance, used to extract tweets from Twitter via Tweepy, process them using Pandas, and store the results in Amazon S3.
 
 ### Project Overview
 
