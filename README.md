@@ -151,8 +151,43 @@ airflow scheduler
 visit ```http://<your-ec2-public-ip>:8080```
 and run the DAG on the webserver
 
+<div align='center'>
+    <img src="images/Start_Airflow_Webserver.png" alt="Description" width="600" align="center">
+    <p align="center"><em>Start Airflow Webserver</em></p>
+</div>
+
+<div align='center'>
+    <img src="images/Start_Airflow_Scheduler.png" alt="Description" width="600" align="center">
+    <p align="center"><em>Start Airflow Scheduler</em></p>
+</div>
+
+<div align='center'>
+    <img src="images/Login.png" alt="Description" width="600" align="center">
+    <p align="center"><em>Login to Airflow Webserver</em></p>
+</div>
+
+<div align='center'>
+    <img src="images/DAG.png" alt="Description" width="600" align="center">
+    <p align="center"><em>Running the DAG</em></p>
+</div>
+
 #### Check S3 bucket for new files
 visit your S3 bucket and check for the csv files containing the tweets for the provided username
+
+<div align='center'>
+    <img src="images/S3_bucket.png" alt="Description" width="600" align="center">
+    <p align="center"><em>Files added to S3 bucket</em></p>
+</div>
+
+<div align='center'>
+    <img src="images/csv_file.png" alt="Description" width="600" align="center">
+    <p align="center"><em>Elon Musk tweets</em></p>
+</div>
+
+<div align='center'>
+    <img src="images/csv_file2.png" alt="Description" width="600" align="center">
+    <p align="center"><em>Sam Altman tweets</em></p>
+</div>
 
 #### Stopping the Program
 
